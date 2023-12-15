@@ -1,38 +1,15 @@
 [
-    {
-        "phone_number": "",
-        "password": "",
-        "address": "",
-        "phonetype": "",
-        "longitude": 121.544296,
-        "latitude": 31.221592,
-        "pushtoken": "",
-        "modify_coordinates": false,
-        "enabled": false,
-        "dToken": ""
-    },
-    {
-        "phone_number": "",
-        "password": "",
-        "address": "",
-        "phonetype": "",
-        "longitude": 116.093625,
-        "latitude": 35.676721,
-        "pushtoken": "",
-        "modify_coordinates": true,
-        "enabled": false,
-        "dToken": ""
-    },
-    {
-        "phone_number": "",
-        "password": "",
-        "address": "",
-        "phonetype": "",
-        "longitude": 116.093625,
-        "latitude": 35.676721,
-        "pushtoken": "",
-        "modify_coordinates": true,
-        "enabled": true,
-        "dToken": ""
-    }
+  {
+    "enable": true,
+    "alias": "郭松松",
+    "phone": "18595585668",
+    "password": "Gss254683..",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "6A371837-D927-D02F-F93D-FCEF1537E28F",
+    "randomLocation": true,
+    "address": "开封市西环路北段利居佳苑25号楼3单元602",
+    "longitude": "114.327415",
+    "latitude": "34.82143",
+    "pushKey": "cbc4a53db8634070a27fcdb8b1983879"
+  }
 ]
